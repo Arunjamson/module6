@@ -3,3 +3,12 @@
 	display: flex;
   
 }
+
+@media only screen and (max-width: 438px){
+    .container1 h1{
+    font-size:1.1rem
+    }
+   .txt-type{
+   font-size: 1.1rem
+   }
+}
